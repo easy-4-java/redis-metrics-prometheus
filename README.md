@@ -17,7 +17,7 @@ Druid Metrics For Prometheus
 
 ``` xml
 <dependency>
-	<groupId>io.github.hiwepy</groupId>
+	<groupId>io.github.easy4j</groupId>
 	<artifactId>druid-metrics-prometheus</artifactId>
 	<version>${project.version}</version>
 </dependency>
